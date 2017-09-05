@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jjkeeney129285@gmail.com"]
 
   spec.summary       = %q{Creates a nifty copyright statement that you can use anywhere in your application.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  
   spec.homepage      = "https://github.com/geomaster58/KeeneysAwesomeViewTool"
   spec.license       = "MIT"
 
