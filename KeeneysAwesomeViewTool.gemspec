@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Creates a nifty copyright statement that you can use anywhere in your application.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "https://devcamp.com"
+  spec.homepage      = "https://github.com/geomaster58/KeeneysAwesomeViewTool"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
